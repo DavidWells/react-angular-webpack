@@ -5,3 +5,5 @@ app/*.*
 *.iml
 node_modules
 *.log
+
+.npmrc

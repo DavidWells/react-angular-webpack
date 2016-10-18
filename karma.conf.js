@@ -65,7 +65,7 @@ module.exports = function (karmaConfig) {
 
     autoWatch: false,
 
-    browsers: ['PhantomJS2'],
+    browsers: ['Chrome'],
 
     singleRun: config.ci
   });
